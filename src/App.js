@@ -7,10 +7,9 @@ import { useAuthState } from 'react-firebase-hooks/auth'
 
 function App() {
   const [user] = useAuthState(auth)
-
-
   return (
     <>
+      {/* If user is signed in, display the chatroom, otherwise display sign in page */}
       {user ? <Chat /> : <SignIn />}
     </>
   );
