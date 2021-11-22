@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tysonpoulton/fireside-chat/static/css/main.9fbe9b63.chunk.css",
-    "main.js": "/tysonpoulton/fireside-chat/static/js/main.6f2219ec.chunk.js",
-    "main.js.map": "/tysonpoulton/fireside-chat/static/js/main.6f2219ec.chunk.js.map",
-    "runtime-main.js": "/tysonpoulton/fireside-chat/static/js/runtime-main.a35dd742.js",
-    "runtime-main.js.map": "/tysonpoulton/fireside-chat/static/js/runtime-main.a35dd742.js.map",
-    "static/js/2.19d16451.chunk.js": "/tysonpoulton/fireside-chat/static/js/2.19d16451.chunk.js",
-    "static/js/2.19d16451.chunk.js.map": "/tysonpoulton/fireside-chat/static/js/2.19d16451.chunk.js.map",
-    "index.html": "/tysonpoulton/fireside-chat/index.html",
-    "static/css/main.9fbe9b63.chunk.css.map": "/tysonpoulton/fireside-chat/static/css/main.9fbe9b63.chunk.css.map",
-    "static/js/2.19d16451.chunk.js.LICENSE.txt": "/tysonpoulton/fireside-chat/static/js/2.19d16451.chunk.js.LICENSE.txt"
+    "main.css": "/fireside-chat/static/css/main.9fbe9b63.chunk.css",
+    "main.js": "/fireside-chat/static/js/main.6f2219ec.chunk.js",
+    "main.js.map": "/fireside-chat/static/js/main.6f2219ec.chunk.js.map",
+    "runtime-main.js": "/fireside-chat/static/js/runtime-main.9abe2065.js",
+    "runtime-main.js.map": "/fireside-chat/static/js/runtime-main.9abe2065.js.map",
+    "static/js/2.0bb8cad4.chunk.js": "/fireside-chat/static/js/2.0bb8cad4.chunk.js",
+    "static/js/2.0bb8cad4.chunk.js.map": "/fireside-chat/static/js/2.0bb8cad4.chunk.js.map",
+    "index.html": "/fireside-chat/index.html",
+    "static/css/main.9fbe9b63.chunk.css.map": "/fireside-chat/static/css/main.9fbe9b63.chunk.css.map",
+    "static/js/2.0bb8cad4.chunk.js.LICENSE.txt": "/fireside-chat/static/js/2.0bb8cad4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a35dd742.js",
-    "static/js/2.19d16451.chunk.js",
+    "static/js/runtime-main.9abe2065.js",
+    "static/js/2.0bb8cad4.chunk.js",
     "static/css/main.9fbe9b63.chunk.css",
     "static/js/main.6f2219ec.chunk.js"
   ]
